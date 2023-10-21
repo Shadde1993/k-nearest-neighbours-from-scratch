@@ -1,1 +1,1 @@
-# k-nearest-neighbours-from-scratch
+# k-nearest-neighbours
